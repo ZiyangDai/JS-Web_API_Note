@@ -12,22 +12,19 @@
     <p>222</p>
     <div>333</div>
     <script>
-        // 方式一：document.write()
-        document.write("<div>777</div>")
-
+        // ⭐方式一：document.write() 很少使用
         // 若在页面渲染完毕后调用document.write()方法，则会导致页面重绘
-        // var btn = document.querySelector('button')
-        // btn.onclick = function() {
-        //     document.write("<div>444</div>")
-        // }
-
+        document.write("<div>777</div>")
+        
         // onload方法是在页面渲染完后调用的,所以此时调用write函数会重绘整个页面
         // window.onload = function() {
-        //     document.write("<div>444</div>")
+        //     document.write("<div>777</div>")
         // }
 
-        // 方式二：document.createElement()
-        // 方式三：element.innerHTML
+        // ⭐方式二：document.createElement()
+        
+        
+        // ⭐方式三：element.innerHTML
 
         // 面试：document.createElement()与element.innerHTML那个效率更高
         var div = document.querySelector('div');
