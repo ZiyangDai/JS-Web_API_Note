@@ -2,7 +2,7 @@
 + 根据B站 [《前端基础进阶》](https://www.bilibili.com/video/BV1k4411w7sV) 整理的学习笔记。 
 + js由三部分组成，ECMAScript,BOM,DOM。其中BOM和DOM统称为web_api。
 + Web Api 是浏览器提供的操作浏览器和页面元素的接口，用于做交互效果。
-+ 目前进度：77/167
++ 目前进度：81/167
 
 # 二、Web_api学习目录
 + 1.Dom文档对象模型
