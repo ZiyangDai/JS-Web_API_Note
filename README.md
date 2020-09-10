@@ -50,3 +50,23 @@
     - 11.navigator 对象
     - 12.history对象
     
++ 4.PC端网页特效
+    - 01.element.offset系列属性
+    - 02.offset与style的区别
+    - 03.offset案例-获取鼠标在盒子中的坐标
+    - 04.可拖动的模态框
+    - 05.京东放大镜效果
+    - 06.element.client系列
+    - 07.立即执行函数的两种创建方式
+    - 08.像素比,pageshow事件
+    - 09.淘宝flexible.js解读
+    - 10.element.scroll系列属性
+    - 11.仿淘宝固定侧边栏
+    - 12.三大系列总结
+    - 13.mouseenter与mouseover的区别
+    - 14.js动画-封装盒子移动的函数
+    - 15.js缓动动画
+    - 16.封装缓动动画函数
+    - 17.轮播图制作
+    - 18.筋斗云导航栏
+    
